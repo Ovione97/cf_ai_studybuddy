@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    /* === File Paths === */
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    /* === Language & Module Settings === */
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+
+    /* === Type Definitions === */
+    "types": ["@cloudflare/workers-types"],
+
+    /* === Type Checking & Safety === */
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* === Extras === */
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+
+    /* === React Setting  === */
+    "jsx": "react-jsx"
+  },
+  "include": ["src"]
+}

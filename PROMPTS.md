@@ -101,5 +101,5 @@ This project fulfills the **Cloudflare AI Developer Assignment** criteria:
 - **Memory/State:** Durable Object + localStorage  
 - **Documentation:** README + PROMPTS included  
 
-**Repository:** [https://github.com/ovione/cf_ai_studybuddy](https://github.com/ovione/cf_ai_studybuddy)  
+**Repository:** [https://github.com/Ovione97/cf_ai_studybuddy](https://github.com/ovione/cf_ai_studybuddy)  
 **Live Demo:** [https://cf_ai_studybuddy.ovione.workers.dev](https://cf_ai_studybuddy.ovione.workers.dev)
